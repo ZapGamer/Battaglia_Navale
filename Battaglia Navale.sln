@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server-navale", "Server-navale\Server-navale.csproj", "{100859F6-6AD7-4834-BCDE-54DD631D954E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client-navale", "Client-navale\Client-navale.csproj", "{77436B58-462E-46E3-8E63-128D3E1871B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100859F6-6AD7-4834-BCDE-54DD631D954E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100859F6-6AD7-4834-BCDE-54DD631D954E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100859F6-6AD7-4834-BCDE-54DD631D954E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100859F6-6AD7-4834-BCDE-54DD631D954E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77436B58-462E-46E3-8E63-128D3E1871B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77436B58-462E-46E3-8E63-128D3E1871B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77436B58-462E-46E3-8E63-128D3E1871B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77436B58-462E-46E3-8E63-128D3E1871B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57086544-ED6B-4995-AC2D-FF9EED6E5EE8}
+	EndGlobalSection
+EndGlobal

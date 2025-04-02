@@ -1,0 +1,50 @@
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\bin\Debug\Client-navale.exe.config
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\bin\Debug\Client-navale.exe
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\bin\Debug\Client-navale.pdb
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.AssemblyReference.cache
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.SuggestedBindingRedirects.cache
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client_navale.Properties.Resources.resources
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.GenerateResource.cache
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.CoreCompileInputs.cache
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.exe
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.pdb
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client_navale.Form1.resources
+C:\Users\MATTIAFACOETTI\Downloads\Battaglia Navale\Client-navale\bin\Debug\Client-navale.exe.config
+C:\Users\MATTIAFACOETTI\Downloads\Battaglia Navale\Client-navale\bin\Debug\Client-navale.exe
+C:\Users\MATTIAFACOETTI\Downloads\Battaglia Navale\Client-navale\bin\Debug\Client-navale.pdb
+C:\Users\MATTIAFACOETTI\Downloads\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.AssemblyReference.cache
+C:\Users\MATTIAFACOETTI\Downloads\Battaglia Navale\Client-navale\obj\Debug\Client_navale.Form1.resources
+C:\Users\MATTIAFACOETTI\Downloads\Battaglia Navale\Client-navale\obj\Debug\Client_navale.Properties.Resources.resources
+C:\Users\MATTIAFACOETTI\Downloads\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.GenerateResource.cache
+C:\Users\MATTIAFACOETTI\Downloads\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.CoreCompileInputs.cache
+C:\Users\MATTIAFACOETTI\Downloads\Battaglia Navale\Client-navale\obj\Debug\Client-navale.exe
+C:\Users\MATTIAFACOETTI\Downloads\Battaglia Navale\Client-navale\obj\Debug\Client-navale.pdb
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\bin\Debug\Client-navale.exe.config
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\bin\Debug\Client-navale.exe
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\bin\Debug\Client-navale.pdb
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.AssemblyReference.cache
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client_navale.Form1.resources
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client_navale.Properties.Resources.resources
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.GenerateResource.cache
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.CoreCompileInputs.cache
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-n.A1F76C36.Up2Date
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.exe
+C:\Users\matti\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.pdb
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MATTIAFACOETTI\source\repos\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.CopyComplete
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\bin\Debug\Client-navale.exe.config
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\bin\Debug\Client-navale.exe
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\bin\Debug\Client-navale.pdb
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\bin\Debug\Newtonsoft.Json.dll
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\bin\Debug\Newtonsoft.Json.xml
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.AssemblyReference.cache
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\obj\Debug\Client_navale.Form1.resources
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\obj\Debug\Client_navale.Properties.Resources.resources
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.GenerateResource.cache
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\obj\Debug\Client-navale.csproj.CoreCompileInputs.cache
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\obj\Debug\Client-n.A1F76C36.Up2Date
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\obj\Debug\Client-navale.exe
+D:\Facoetti\cartella creata in assenza di spazio\TPS\Battaglia Navale\Client-navale\obj\Debug\Client-navale.pdb
