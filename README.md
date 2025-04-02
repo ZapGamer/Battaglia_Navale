@@ -21,7 +21,7 @@ Essi comunicano tramite il protocollo TCP sulla porta 50000 (potete personalizza
 - Chat di gioco tra giocatori
 
 ## Requisiti di sistema
-- .NET Framework 4.7.2 o superiore
+- .NET Framework 4.8.0 o superiore
 - Windows 10/11
 - Visual Studio 2022 o superiore per la compilazione del codice sorgente
 - Pacchetto NuGet NewtonsoftJson
