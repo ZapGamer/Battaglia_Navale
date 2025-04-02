@@ -27,15 +27,13 @@ Essi comunicano tramite il protocollo TCP sulla porta 50000 (potete personalizza
 - Pacchetto NuGet NewtonsoftJson
 
 ## Installazione
+1. Clonare la repository:
 ```
-1. Clonare il repository:
-   
    git clone https://github.com/ZapGamer/Battaglia_Navale.git
-   
+```
 2. Aprire la soluzione in Visual Studio
 
 3. Compilare ed eseguire il progetto (lo trovate nelle rispettive cartelle bin)
-```
 
 ## Utilizzo
 1. Avviare l'applicazione server e due client
