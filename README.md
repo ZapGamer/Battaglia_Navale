@@ -4,18 +4,20 @@
 Battaglia Navale è un gioco classico sviluppato, in questo caso, con Windows Forms in C#. 
 Il progetto permette a due giocatori di sfidarsi con navi generate casualmente e cercando di affondare quelle dell'avversario.
 Al suo interno troviamo il codice per un server e per i client, di base impostati per runnare sulla stessa macchina.
+Essi comunicano tramite il protocollo TCP sulla porta 50000 (potete personalizzarla nel codice).
 
 ##### (Opzionale) Per giocare su diversi dispositivi:
-- Rete locale: basta cambiare gli IP nel codice del Client-Navale
-- Con un amico a distanza: usare programmi come ```LogMeIn Hamachi``` e modificare gli IP nel codice del Client-Navale
+- Rete locale: basta cambiare gli IP nel codice del Client-Navale.
+- Con un amico a distanza: usare programmi come ```LogMeIn Hamachi``` e modificare gli IP nel codice del Client-Navale.
 
 ## Funzionalità
 - Interfaccia grafica realizzata con Windows Forms
-- Modalità giocatore vs giocatore (in locale)
+- Modalità giocatore vs giocatore (in locale di base)
 - Posizionamento casuale delle navi
 - Griglia interattiva per selezionare le coordinate di attacco
 - Indicazione visiva di colpi a segno e mancati
-- Sistema di punteggio e notifica della vittoria
+- Sistema di gestione della vittoria/sconfitta
+- Aggiornamenti dinamici
 - Chat di gioco tra giocatori
 
 ## Requisiti di sistema
@@ -41,4 +43,5 @@ Al suo interno troviamo il codice per un server e per i client, di base impostat
 3. Continuare fino alla vittoria di uno dei giocatori
 
 ## Buon divertimento!
+Se riscontrate problemi, contattatemi pure tramite una issue su questa repository (ignorerò tutte quelle riguardanti le MessageBox, essendo problemi minori che dipendono dalla velocità di trasmissione e non causano errori nel codice).
 ![Sfondo_Gioco](./Client-navale/assets/sfondo.gif)
